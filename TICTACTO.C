@@ -36,7 +36,7 @@ void main()
 
 	printf("\n%s = X, %s = O",w,b);
 
-	// Choice should from 1 to 9
+	// Choices should from 1 to 9
 
 	p1=1;
 	p2=2;
